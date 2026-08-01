@@ -3,6 +3,7 @@
 The single page application template for students.
 
 **Live demo:** https://kwartler.github.io/vienna-genai-spa-template/
+TEST
 
 > **⚠️ First-run setup (do this once): in your repo go to Settings → Pages and set Source to "GitHub Actions".** Without it your deployed page will be broken or unstyled. Full steps in [SETUP.md](SETUP.md).
 
